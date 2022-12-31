@@ -1,3 +1,4 @@
+Problem Statement :
 According to European Business Review, telecommunication providers lose close to $65 million a month from customer churn. Isn't that 
 expensive? With many emerging telecom giants, the competition in the telecom sector is increasing and the chances of customers discontinuing a 
 service are high. This is often referred to as Customer Churn in Telecom. 
